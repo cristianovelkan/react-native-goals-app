@@ -18,7 +18,7 @@ export default GoalItem;
 
 const styles = StyleSheet.create({
   goalItem: {
-    backgroundColor: "#4d5bc4",
+    backgroundColor: "#b180f0",
     borderRadius: 8,
     marginVertical: 3,
   },
